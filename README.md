@@ -40,8 +40,7 @@ The dashboard helps identify sales trends and business opportunities through dat
 
 ## Dashboard Preview 
 
-![Dashboard](<img width="1908" height="1060" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/93c22b09-a692-4893-99be-99751f2b9a61" />
-)
+![Dashboard](Screenshort Dashboard.png)
 
 # Recommendations
 
