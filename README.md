@@ -39,7 +39,9 @@ Tableau Public
 The dashboard helps identify sales trends and business opportunities through data visualization.
 
 ## Dashboard Preview 
-![Dashboard](Dashboard_Screenshort.png)
+
+![Dashboard](<img width="1908" height="1060" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/93c22b09-a692-4893-99be-99751f2b9a61" />
+)
 
 # Recommendations
 
